@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Autobus Parma</string>
+    <string name="action_settings">Opzioni</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Fermate autobus</item>
+        <item >Calcola percorso</item>
+        <item >Orari e percorsi linee urbane</item>
+        <item >Pronto Bus</item>
+        <item >Tep Parma</item>
+        <item >News</item>
+        <item >Opzioni</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pronto</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_option</item>
+    </array>
+    
+     <!-- Linee autobus -->   
+    <string-array name="linee_array">
+        <item>Linea 1</item>
+        <item>Linea 2</item>
+        <item>Linea 3</item>
+        <item>Linea 4</item>
+        <item>Linea 5</item>
+        <item>Linea 6</item>
+        <item>Linea 7</item>
+        <item>Linea 8</item>
+        <item>Linea 9</item>
+        <item>Linea 11</item>
+        <item>Linea 12</item>
+        <item>Linea 13</item>
+        <item>Linea 14</item>
+        <item>Linea 15</item>
+        <item>Linea 20</item>
+        <item>Linea 21</item>
+        <item>Linea 23</item>
+        <item>Linea 2N</item>
+        <item>Linea 4N</item>
+    </string-array>
+    
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    
+    
+
+</resources>

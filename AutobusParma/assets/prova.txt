@@ -1,0 +1,288 @@
+
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC9QAAAIX9F1LA8JD-gOapmU_L54ZXg_OFn9GCX56XShYow52pbx5xsE2LJ6ofB_PkI1eIM7DsHeluSQZaIUFzHflkO8xbnYfhn_FQzD2VRWwIZxSsmHu1nkgPrbvoYmW-w7nyRjP7kTvuo2xPp29YW1jWFW9I7J0UN0UT3-PANi8kmWBfeMb1prq092DFtqwzpY4mplx6SAo6o8FPM-8TYpBfmFEDq1I_jZtJ1aabMtTN8l6yaMYnhYlQfCa0Hif3xm-uapzahtMPbsKCGhkA8QoSjL-mOfH3BSFKPFAbtfNvwTRiHJVszMwJ-1IUFjOrTtIRUrhGoSQBVxZk0tRJ6kKeVMwSEOjyeBBNz4UQsUdgtcc1stYaFFpPqQWka4zeMpP_TIvqTeJBlWOS",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.811138,
+               "lng" : 10.281258
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "132e03e04bdeb56fc1f193b83c8f8c3e03912265",
+         "name" : "Emilia O. Fdo Maghenzani",
+         "reference" : "CoQBewAAAHg16L0KUllKJP_IugxZ3G7yONkqcPLXzsgxg6HCSFjPVTwNU5bXbNzfVIZ13lavBU8Sf9GUMyX3eLrT_oCpeiWVX6Ou561E9NHXuGlAKIkURCZG_G0aneXDbI_THquur7qQMSXIYRCGXa4C7FW1BH-8-lrQ4TWAYpfgOJ7ScORuEhDMf2-oJQMO4CvI7l0afhU_GhSXYOlM_g0gAu8I32h5O78HeA7Npg",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.810616,
+               "lng" : 10.28284
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c27306abd28732ad634cef34f07e46a58ec94e61",
+         "name" : "Emilia O. Fdo Maghenzani",
+         "reference" : "CoQBewAAAPJ7j6rJTINFKNkd3Og5PtOGDnebMY5-wV2HellcG9g90J6Bgama7hom2N2PrfR5BZhlifJF-UQd31fvBSQ3YNuq_-oGWHX3azLj7ORI4Is2FWkMajG-yPAI_dAiFVTk8qn6xkpJyWP6XhWCvSOe4i05XUUYCXE15xne1tonFVKPEhDS1XehrK8p1ls2AuTnwn8JGhQ5PMa-60rq43GB010iZae0Z5GlOA",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.811824,
+               "lng" : 10.277075
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a161ce50efac8ba38e53c6870a90247e6cee0429",
+         "name" : "San Pancrazio Campistuard",
+         "reference" : "CoQBewAAADQTkTMxqB_K44hTTji5SA410QYKVGYqRMwgOyBJ3e8-lbiIpB0c_TBTVl7bttnygs4Rq7E7Q31cbWN3X4YgE4eXNd-lTHHNsjfuFDxgTQmXWA5ORTwZsptpl-ZEnzV5yidsMfB7b29Z7LvdmqL-xVGU6xqHtIN6vaUV6SfrKu2lEhA0nkbaT_gtNInS_-on8uQSGhQ3NNOOBVAjskg0qoexdpffaXfKXw",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.809736,
+               "lng" : 10.285008
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1b031cdd95bd9a7bef4258c5c5c719cf838d8fcb",
+         "name" : "Parcheggio Ovest",
+         "reference" : "CoQBcgAAAAUp--Bf1y97dVtQejEYGbG21NOzJAlp6p8-evl4E6a29i8B4jSVTmHxTE9nC8bMbApPQnSoZ-G62Zc-5jeNdsLY1aC0LNYtAkK6FgCOqfnJj-c5FcQUYmM3rklRHbVd6ej_RKcQLlgAHZz8cwVGm_ygXt2ozGhGZ4HxxKYqSrI4EhABsgZXoC5umVQ5AHju9k49GhS9P2s2DDpaVX0hfqraoSb2ESP1Yg",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.812196,
+               "lng" : 10.276008
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "92c372f31d363cb7c5b57e9030768d9c43043860",
+         "name" : "Sanpancrazio Campi Stuard",
+         "reference" : "CoQBfAAAAMcfi31_j5Hye82hpGQSmMzrHrwBe0O3i4lCZiMSSRYSYaBLaU9930crokGg-PwlnKTtrexgf7iyEBDqq1nR3YWkunIYnIdEIlv2KcSAun-S9Iq85uScCFgyBNsyT8hv7c7XB300Cqa0E1i1EGRb-e1XKUdxgKgpXkQr_bGdE-FvEhAl0LuaTvfh5yuJzMCBq0sHGhS5fMevp-JUiT-7pZ22HH6wZjPY3g",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.81013,
+               "lng" : 10.286054
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "493732229858b7fc3ce4dba91979f659f9a6cf29",
+         "name" : "Via Emilia O. Gas Metano",
+         "reference" : "CoQBegAAAKCzgOmfl-r0x1JFOMGV3LDelTc3NTrwMKSZ7-wMdFHiocAOm1PaJNlnp2jEjZCwFlXBNG_gXZAgl0S14ZYT9mfhD0a6n4eJ_aw4MBEHdhg38R7dyonkzaAfVLDC1PnYJGnOHZcjj3JkUmbkkbkQBDqcp3B9Hgn4GB5bONTDIaWTEhCh2m_PlwKN3kLpkh-fNDvoGhR8350XibMLdeHnaSH-t0NFo3_lHw",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.809851,
+               "lng" : 10.286806
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8ed8fdec1834ce51c03ae49a2513205d3d9e0d2f",
+         "name" : "Via Emilia O. Gas Metano",
+         "reference" : "CoQBewAAAMYTvT0jcYP8wK7VMPFFpdqvSW7_6L-gQbpcAwozYfUy-FJZTrmprUuGSpQ7hIoLx8JK4doVxRYcVlkQOMxynF7YW2UGxYl4sPB3Uex5KhbeubujEUbzU60vcaasnRzzy_px96GjAyjO6WuBXcPmuJxC9gGMGD_oQYePiKMolNkjEhDDSXYmz2T15dESiWAH5wj3GhSO0hcwr1tPb3ERNipaSGVbWNZQpw",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.812854,
+               "lng" : 10.271887
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "18802887fe95fc2cec93f35e18d41b83b3e8bbaa",
+         "name" : "San Pancrazio Via Emilia",
+         "reference" : "CoQBegAAAEM8fBpQ2Lvywj5VnR6acUWCNQDIk8SiH1hlqFyDbeH_e68X-tmIedgV4ws4KegytRARQ0v98mBOMd4qnoCOwK8RSAAqMJrgpXaPalVj2J29oQX7D_XzX4FTCiaSLqobT5--fQH2CkdsyeHZNfu4JVZ5f_ZT_92eew7XE7IkaDxaEhBwO29BKxEVKCMbvvQwE-54GhQ8lPCltxAHmg5h_XB59FXAyu1h5g",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8095,
+               "lng" : 10.289176
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e509dc084f898aae9fa1e3911217fe99af3b2682",
+         "name" : "Via Emilia O. Villa Maria",
+         "reference" : "CoQBewAAAAycqZFOYrWAs0ynNbSps64H_4HQG9tv0vIFHmb294nVJj8o-EuVoFlks4OKexLYYvpzgRRGJFSSlUt_ys-mZVmOR5OvptOTcrV5Of9ZZ5mzsm4h5sGVJn-0Ldg8SZ1ypXKJyo_sxGViXPfvC9F_9HcwCJetzgpouq7mgfDI7EHNEhCyWdT8Ve5rq-7whj3RjGEyGhSSwwK_DK7THOWmT3WJ3NAL9v4mXg",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.813654,
+               "lng" : 10.271158
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e559653b00b41c0d8502e8844cebdcf993eac5ef",
+         "name" : "San Pancrazio Via Grandi",
+         "reference" : "CoQBegAAAER2NfN7JazanzhaQ6ckG6tVh_5xnGTiMn2j1R_MxMtBADJiUyPsFNxD0eW4QpSZw_dWVutoMEOheZ_GEKy9iuvjzvjKCxu5x-L-VTNs5_YUZYQa5d5AWt-7TcR8Dkm3S-01xgU5LEwBKk7kzeQVT62SHdu0CV1r49_ek-bPe6-TEhCTimoJytwc_ushPq88mwkhGhSYXgmdsAKCY4CnWS3rvYJMXElzCw",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.813263,
+               "lng" : 10.27072
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1c1afe9ec74455622c6247783000cb16ac4221e9",
+         "name" : "San Pancrazio Via Emilia",
+         "reference" : "CoQBewAAAIZKo18-avvU8gSypU4EROiB0mVpq9Giw7WAWeXIvWfVX5wMjySU3R_mop5dlSxwLHc-DpFyVrmyD5cwenT8ufdVOC3SuuuV934KMyVBdh3rrfQUTxT2rQnbe9GelmCXanqb-JRpCJ-gBHSHFl8UOYwwp0xe3As8J9hoBsJDulShEhB8XZqhYxxPdg4-0kyTxh1YGhR9_CacNC9swN5hc3enRQK7URYZbw",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.808967,
+               "lng" : 10.290998
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6249145a72efc574eda865071ed86c3ed2285bde",
+         "name" : "Via Emilia O. Villa Maria",
+         "reference" : "CoQBewAAAJ29iqZPfFAb6MJYFXWRFgbk1vZRR0n2bDBmnfsf-Lny_r7Xj-0Ohb6mgy46RDtFIKN4kE0igXEnfjcdjkKDdwCawCcP7V-ZtTPs5B-eRT5gvs68h-KU_QpptpPUNYL8f9ELfji_Agj876TtE9zrCgfdtRrKUwc20vr-_qb-5fR0EhDCJGVA6e0xTEUNQw2Yser-GhR9XYNl2698tLJaivIsDrgMqUF8cA",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8143,
+               "lng" : 10.269807
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fa42f48cf3d23c7bdc252f2d8ae4aac6ca63604b",
+         "name" : "San Pancrazio Via Buozzi",
+         "reference" : "CoQBewAAAOxzJpzsARLvEnEddTan74PQoWuhZVCZxUIWik-zeCOnAqtwg3Ju-ZBvb5-BEydNZsHvKK1hqX5LwWV-v4OAvqkp6Qg5Rj8DsdE_iiEyHE9b6-7ziv9URQX2o9Z77g2cGq8eupvGO7pHqUwx-k_m1wYQ8bDmXMYrp3HvH0GOcy9NEhD9zQlBxYBnw3FfbnjCrZt5GhTC4fKia73ThRPAhTQCbkW8Z53qrA",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.813311,
+               "lng" : 10.291335
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5021a50792d9634bec2ed137e7b26c4127c07487",
+         "name" : "V Cremonese Villa Speranza",
+         "reference" : "CoQBfQAAAPoD1-uXu8xt25qoWg5N48L5jwZ5DwF-Ih5kgB8cr4nL41dR17BF_3GuqUxcEOzwio-7UTkXq_84yKHWQVDVhRk3_ACXTXwKr-RvIfBIJGciL7EBczAtwkxloqoPtdqqeEaDJnAfDQP8shwoYf23IFsMkhKAxsxFm9KtxkUZ_FbeEhAZb_3pyytZjIFqjQyqLb8MGhRUKL0_mLXYAxtSGR_-_7Cmh1QFCg",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.817108,
+               "lng" : 10.287537
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bd4658e4a1ff05d88e5e8bd518172f9cf193cbd0",
+         "name" : "V. Cremonese Aeroclub",
+         "reference" : "CoQBeAAAAIdvDONubgZYz091cKoyQHm5tTdktJ4H3EjcJSI4CIyVLOfMIuua0ggcN6AcMu4spiiWUMemlvajXK3EPnf-CKGVgIF6-sJCARLw9iMHb-vEqHYT7Al_48EhyEah0oFrT2HsGTqnf3q4V7HGY9_eQnYXGUCnUzH5NonFv1lGwJbcEhAAJdxLYp1OpuQOQov-P0iJGhQ1KDhAkGmSvVi6QqcxWiaVlfSvAw",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.814568,
+               "lng" : 10.269117
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "58a398cc87db0304b386ca605a15c942450076ed",
+         "name" : "San Pancrazio Via Buozzi",
+         "reference" : "CoQBegAAAIcmicSbUeBHDbr0f0Qgw6ze2_eKGnflOTfdZezWRbTPnN_mC3dokMJudNCyAOjAOtU0Ks95tVyaSrZr0Y1ooRdKVqLymOWbWitDeFL63v6Ums-b-P280wKfH5cOxOHi_6jWS1SJZyAIGMAMO8uh1lrPF0bLheiTJP7LURh6piGaEhBxW65YDGDA4CtZNSLxKml2GhQyK1upKv3e1W5DxD9QroY8NUwQ4Q",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.816903,
+               "lng" : 10.288127
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7dc0186007a2aa35ab867241f4dc6fb9f0366a5e",
+         "name" : "V. Cremonese Aeroclub",
+         "reference" : "CoQBdwAAAHqTvnzDfu28efnZblyxDFqk9K9hMNxcvcvgqKmhUe5b3UAX1I6vNQVvzvDlPgbx1-d5VfMXhbn8ZIJdBWCQ3J7gchhWd_Lb9cgOcb5Dc_jNZIWd1SkY-b0q-8gYnH_kNK2bcv4YjEghACFkql-_JHt0Sr5ulitze9Q_gTDw9NGSEhC3Zk1KP3L3rDgGFEUn8rWDGhS2fszL4F44pEZUUDEc3Kk9WI0gog",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.815211,
+               "lng" : 10.269612
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3ddacc9ce17722d0dcb86c9e8b01c59e20f477db",
+         "name" : "Sanpancrazio Pza Faraboli",
+         "reference" : "CoQBewAAAJ_UbyRBMSzNgFKUrU53gZqRzuzeEF9Inz2zgjteCcKdQ8yKZ2SzQzvfP-8ENZxMskaTDa_wH1dgH5oGotFKXCLkKf4gjCl3V2v3d56IPH06kdltH6wspGwWsZFT5tGSeDydFRVpRXQDV-MXOyQbKeU_woaYAD5QbsaTNXh-9nOvEhAsDZytM9l_tc9r2g5OdTeYGhR4SuTBoqHrdBYf0gcSW4XT2OTSNg",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.808689,
+               "lng" : 10.293243
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f489996efb7958515b75d0f7180c34b7f1ea3243",
+         "name" : "Via Emilia Ovest Via Pini",
+         "reference" : "CoQBewAAAN-bxHVUJMboVqn9a80y_YvaSnhyC8h_5pNknMziBV4Jao0OlTiqf0Y0rU6QT1_uV-r-i04TOMxOjSTzjtTt1r7xDDF3gOGNVApwCxj7c9lHc2tlNrDLVbuCyOiqqqS4o35UnKxsRTvXPJ2RTvceTkI-kl4KvePioqfWUTU4rKP9EhBoX_y3gVUlfI_4xMIHcVReGhTCzWOec-cGPJE-BwdW6Rna_gWb7g",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 44.819768,
+               "lng" : 10.279881
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7c47236c11c3d682b42394305325ce368d0e20a5",
+         "name" : "Fognano Scuole",
+         "reference" : "CnRwAAAARDCTsSIj2_STD0b2d5WzsVfW4HZ5CoHI8ED51oYg9NQSQCtlaUkUNzKVKhlIzuq29fyLCE_m0HI_egv0krQpG6UMqQHy_5avJBQFHSyWB7ezW76pL1Y4Zap4sMVe9mhPOX7oR8EvohWwOn5MuSt5aBIQYaKtyQgc1IQvvXBZ2wSMdBoU_-jjO8MBa2uYcuVz7A4vMAmM9Yk",
+         "types" : [ "bus_station", "transit_station", "establishment" ],
+         "vicinity" : "Italy"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ToggleButton
+        android:id="@+id/switchGPS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/switchInternet"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="31dp" />
+
+    <ToggleButton
+        android:id="@+id/switchInternet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/switchGPS"
+        android:layout_marginTop="19dp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/switchGPS"
+        android:layout_alignBottom="@+id/switchGPS"
+        android:layout_alignParentLeft="true"
+        android:text="Impostazioni Gps"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/switchInternet"
+        android:layout_alignBottom="@+id/switchInternet"
+        android:layout_alignParentLeft="true"
+        android:text="Impostazioni Internet"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+</RelativeLayout>
